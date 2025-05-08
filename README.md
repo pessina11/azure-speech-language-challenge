@@ -24,8 +24,3 @@ Este repositório documenta o desafio de explorar as ferramentas **Azure Speech 
 ## Conclusão
 Este desafio me proporcionou uma visão prática e aplicada do uso de IA em serviços de fala e linguagem natural. As ferramentas do Azure são poderosas e podem ser integradas a diversos tipos de soluções, como chatbots, assistentes virtuais e sistemas de feedback.
 
-## Imagens
-Aqui estão algumas capturas de tela que mostram o que foi realizado durante o desafio:
-
-![Exemplo de Transcrição de Fala](images/exemplo_transcricao.png)
-
